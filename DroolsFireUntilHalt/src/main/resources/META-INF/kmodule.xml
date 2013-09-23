@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
+
+	<kbase name="defaultkiebase" equalsBehavior="equality" eventProcessingMode="stream">
+		<ksession name="session0" default="true" type="stateful" clockType="realtime"/>
+	</kbase>
+
+</kmodule>
