@@ -5,7 +5,7 @@
 	<artifactId>DroolsFireUntilHalt</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<properties>
-		<org.drools.version>6.0.0.CR3</org.drools.version>
+		<org.drools.version>6.0.0.CR4-Pre1</org.drools.version>
 	</properties>
 	<dependencies>
 		<dependency>
